@@ -1,0 +1,36 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 36px;
+    margin: 0;
+    padding: 0;
+}
+
+p, h2 {
+    color: rgb(43, 40, 53)
+}
+
+h2 {
+    font-size: 28px;
+}
+
+li {
+    list-style-type: none;
+    border-bottom: 1px solid cornflowerblue;
+    border-top: 1px solid cornflowerblue;
+}
+
+img {
+    margin: 10px auto;
+    display: block;
+}
+
+#app {
+    width: 500px;
+}
